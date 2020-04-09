@@ -8,7 +8,7 @@
   <notifyuser>F</notifyuser>
   <scriptfile>[/SuiteScripts/erp_ue_account.js]</scriptfile>
   <scriptdeployments>
-    <scriptdeployment scriptid="customdeploy__erp_ue_account">
+    <scriptdeployment scriptid="customdeploy_erp_ue_account">
       <allemployees>F</allemployees>
       <alllocalizationcontexts>T</alllocalizationcontexts>
       <allpartners>F</allpartners>
