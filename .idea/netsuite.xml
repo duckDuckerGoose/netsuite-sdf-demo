@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AccountsInformationState">
+    <option name="accountsInformation">
+      <Toplevel>
+        <option name="molecules">
+          <Molecules>
+            <option name="molecule">
+              <array>
+                <Molecule>
+                  <option name="UUID" value="a7c38377-fde1-452b-8c4d-856704d9b2a7" />
+                  <option name="description" value="Production" />
+                  <option name="url" value="system.netsuite.com" />
+                </Molecule>
+              </array>
+            </option>
+          </Molecules>
+        </option>
+        <option name="sdkSettings">
+          <SdkSettings>
+            <option name="moleculeSettings">
+              <MoleculeSettings>
+                <option name="moleculeSetting">
+                  <array>
+                    <MoleculeSetting>
+                      <option name="accounts">
+                        <Accounts>
+                          <option name="account">
+                            <array>
+                              <Account>
+                                <option name="companies">
+                                  <Companies>
+                                    <option name="company">
+                                      <array>
+                                        <Company>
+                                          <option name="UUID" value="39669c13-4482-449a-ae1c-f9e39f610938" />
+                                          <option name="accountType" value="PRODUCTION" />
+                                          <option name="id" value="TSTDRV2264455" />
+                                          <option name="name" value="ERP Fundamentals" />
+                                          <option name="restDomain" value="tstdrv2264455.restlets.api.netsuite.com" />
+                                          <option name="roles">
+                                            <Roles>
+                                              <option name="role">
+                                                <array>
+                                                  <Role>
+                                                    <option name="name" value="Administrator" />
+                                                    <option name="nkey" value="3" />
+                                                    <option name="tokenId" value="adb25bf44571678278e35733b051f2b3ee6aadf3f57943f4d950282ab81a0e900887293f85928ae26e4bf3b4d3a4ee49fc12adfa8fdc4951e7405880cc7b2ede357c9a45433ac82d11532d02d505d556" />
+                                                    <option name="tokenSecret" value="c7d21395c53cf58bda43808b006cdbef2cba73c6db90197e89f99582cf3b0aaba61e1517d62bee34b958992af9da4a31f8d02a5f9149fa05ee73c817c0387ed2357c9a45433ac82d11532d02d505d556" />
+                                                  </Role>
+                                                  <Role>
+                                                    <option name="name" value="Employee Center" />
+                                                    <option name="nkey" value="15" />
+                                                  </Role>
+                                                  <Role>
+                                                    <option name="name" value="FIN MM - A/P Analyst" />
+                                                    <option name="nkey" value="1114" />
+                                                  </Role>
+                                                  <Role>
+                                                    <option name="name" value="FIN MM - A/R Analyst" />
+                                                    <option name="nkey" value="1115" />
+                                                  </Role>
+                                                  <Role>
+                                                    <option name="name" value="FIN MM - Accounting Analyst" />
+                                                    <option name="nkey" value="1105" />
+                                                  </Role>
+                                                  <Role>
+                                                    <option name="name" value="FIN MM - Accounting Manager" />
+                                                    <option name="nkey" value="1106" />
+                                                  </Role>
+                                                  <Role>
+                                                    <option name="name" value="FIN MM - CEO" />
+                                                    <option name="nkey" value="1113" />
+                                                  </Role>
+                                                  <Role>
+                                                    <option name="name" value="FIN MM - CFO" />
+                                                    <option name="nkey" value="1107" />
+                                                  </Role>
+                                                  <Role>
+                                                    <option name="name" value="FIN MM - Controller" />
+                                                    <option name="nkey" value="1097" />
+                                                  </Role>
+                                                  <Role>
+                                                    <option name="name" value="FIN MM - Inventory Manager" />
+                                                    <option name="nkey" value="1109" />
+                                                  </Role>
+                                                  <Role>
+                                                    <option name="name" value="FIN MM - Purchasing Manager" />
+                                                    <option name="nkey" value="1110" />
+                                                  </Role>
+                                                  <Role>
+                                                    <option name="name" value="FIN MM - Sales Manager" />
+                                                    <option name="nkey" value="1111" />
+                                                  </Role>
+                                                  <Role>
+                                                    <option name="name" value="FIN MM- Sales Representative" />
+                                                    <option name="nkey" value="1112" />
+                                                  </Role>
+                                                </array>
+                                              </option>
+                                            </Roles>
+                                          </option>
+                                          <option name="systemDomain" value="tstdrv2264455.app.netsuite.com" />
+                                          <option name="webservicesDomain" value="tstdrv2264455.suitetalk.api.netsuite.com" />
+                                        </Company>
+                                      </array>
+                                    </option>
+                                  </Companies>
+                                </option>
+                                <option name="email" value="erpfun040920md@netsuite.com" />
+                                <option name="password" value="33b040e18dff7cc3ed9af0b893841ce1" />
+                              </Account>
+                            </array>
+                          </option>
+                        </Accounts>
+                      </option>
+                      <option name="molecule">
+                        <Molecule>
+                          <option name="UUID" value="a7c38377-fde1-452b-8c4d-856704d9b2a7" />
+                        </Molecule>
+                      </option>
+                    </MoleculeSetting>
+                  </array>
+                </option>
+              </MoleculeSettings>
+            </option>
+          </SdkSettings>
+        </option>
+      </Toplevel>
+    </option>
+    <option name="projectSettings">
+      <ProjectSettings>
+        <option name="accountRoleId" value="3" />
+        <option name="accountSpecificValuesSeverity" value="ERROR" />
+        <option name="accountUUID" value="39669c13-4482-449a-ae1c-f9e39f610938" />
+        <option name="applyContentProtection" value="false" />
+      </ProjectSettings>
+    </option>
+  </component>
+</project>
